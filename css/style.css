@@ -136,12 +136,14 @@ figure {
 .fh5co-cover,
 .fh5co-hero {
   position: relative;
-  height: 800px;
+  /* height: 800px; */
+  height: 300px;
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover,
   .fh5co-hero {
-    height: 700px;
+    /* height: 700px; */
+    height: 500px;
   }
 }
 .fh5co-cover .fh5co-overlay,
@@ -170,7 +172,8 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover {
     heifght: inherit;
-    padding: 3em 0;
+    /* padding: 3em 0; */
+    padding: 1em 0;
   }
 }
 .fh5co-cover .btn {
@@ -187,7 +190,8 @@ figure {
   }
 }
 .fh5co-cover .desc {
-  top: 15%;
+  /* top: 15%; */
+  top: 40%;
   position: absolute;
   width: 100%;
   margin-top: -80px;
@@ -198,6 +202,7 @@ figure {
   .fh5co-cover .desc {
     padding-left: 15px;
     padding-right: 15px;
+    margin-top: -160px;
   }
 }
 .fh5co-cover .desc h2 {
