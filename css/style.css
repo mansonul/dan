@@ -1709,13 +1709,19 @@ div.cs-select span {
   border-color: transparent;
 }
 .btn.btn-outline {
-  background: transparent;
+  /* background: transparent; */
   color: #F78536;
+  /* color: #393e46; */
   border: 2px solid #F78536 !important;
 }
 .btn.btn-outline:hover, .btn.btn-outline:focus, .btn.btn-outline:active {
-  background: #F78536 !important;
+  /* background: #F78536 !important; */
+  background: #393e46 !important;
   color: #fff !important;
+}
+
+.rounded {
+  border-radius: 3rem !important;
 }
 
 .tab-content .btn {
