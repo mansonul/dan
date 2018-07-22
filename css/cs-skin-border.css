@@ -30,7 +30,7 @@ div.cs-skin-border {
 .cs-skin-border > span::after,
 .cs-skin-border .cs-selected span::after {
 	font-family: 'themify';
-	content: "\e648";
+	/* content: "\e648"; */
 }
 
 .cs-skin-border ul span::after {
@@ -39,8 +39,8 @@ div.cs-skin-border {
 }
 
 .cs-skin-border .cs-selected span::after {
-	/*content: "\e64b";*/
-	content: "\e64c";
+	/* content: "\e64b"; */
+	/* content: "\e64c"; */
 	color: #ddd9c9;
 	font-size: 1.5em;
 	opacity: 1;

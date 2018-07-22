@@ -21,6 +21,18 @@ body {
   overflow-x: hidden;
 }
 
+.book-now {
+  background-color: #fff;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 5em;
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  -ms-border-radius: 0.5em;
+  border-radius: 0.5em;
+}
+
 .bg-image {
   background:url("../images/bearSite_mini_2.jpg") no-repeat top left fixed;
   /* background:url("../images/bearSite_mini_1.jpg") no-repeat top right fixed; */

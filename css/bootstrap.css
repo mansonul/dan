@@ -6476,11 +6476,21 @@ button.close {
 .modal-title {
   margin: 0;
   line-height: 1.42857;
+  color: #F78536;
 }
 
 .modal-body {
   position: relative;
   padding: 15px;
+  /* background-color: #F78536; */
+}
+
+.modal-body h3 {
+  color: #F78536;
+}
+
+.modal-body p {
+  color: #F78536;
 }
 
 .modal-footer {
